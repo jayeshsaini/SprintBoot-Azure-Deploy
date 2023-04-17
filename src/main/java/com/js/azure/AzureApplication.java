@@ -21,7 +21,7 @@ public class AzureApplication {
 				+ "<head>\n"
 				+ "<meta charset=\"ISO-8859-1\">\n"
 				+ "<title>Customer</title>\n"
-				+ "<link rel=\"stylesheet\" type=\"text/css\" href=\"styles/style.css\">\n"
+				+ "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/style.css\">\n"
 				+ "</head>\n"
 				+ "<body>\n"
 				+ "	<h1>Customer</h1>\n"
